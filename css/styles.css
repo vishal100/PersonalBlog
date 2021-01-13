@@ -75,6 +75,7 @@ a:hover{
   position: absolute;
   left: 200px;
   top: 300px;
+  bottom: 100px;
 }
 .top-cloud{
   position: absolute;
